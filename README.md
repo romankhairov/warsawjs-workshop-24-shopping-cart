@@ -37,3 +37,8 @@ or NPM
 ```
 npm i
 ```
+
+## Docs
+
+* Shop API https://app.swaggerhub.com/apis/msojda/workshop24-shop/docs/1
+* Payments API https://app.swaggerhub.com/apis/msojda/workshop24-payments/docs/1.0.0
