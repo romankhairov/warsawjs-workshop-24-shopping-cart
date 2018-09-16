@@ -8,3 +8,6 @@ before_install:
   - "npm i"
   - "npm run start &" 
   - "cd ../warsawjs-workshop-24-shopping-cart"
+cache:
+  directories: 
+  - "node_modules"
